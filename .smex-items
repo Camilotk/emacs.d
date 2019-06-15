@@ -1,0 +1,24 @@
+
+;; ----- smex-history -----
+(
+ racket-mode
+ term
+ eshell
+ run-geiser
+ scheme-mode
+ run-guile
+ common-lisp-mode
+)
+
+;; ----- smex-data -----
+(
+ (lisp-mode . 1)
+ (racket-mode . 8)
+ (run-guile . 3)
+ (racket-repl . 2)
+ (term . 2)
+ (scheme-mode . 5)
+ (common-lisp-mode . 1)
+ (run-geiser . 1)
+ (eshell . 1)
+)
