@@ -2,7 +2,9 @@
 *~$
 places
 .recentf
+.recentf~
 ido.last
+ido.last~
 cider-history
 projectile-bookmarks.eld
 projectile.cache
