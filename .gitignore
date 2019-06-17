@@ -16,3 +16,4 @@ archive-contents
 ./games
 ./auto-save-list
 ./eshell
+./eshell/*
