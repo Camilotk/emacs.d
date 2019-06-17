@@ -2,6 +2,7 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/cazevedo/Desktop/" . "Racket/")
  ("/home/" . "cazevedo/")
  ("/" . "home/")
  ("/home/cazevedo/.emacs.d/" . "customizations/")
@@ -10,12 +11,14 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/cazevedo/Desktop/Racket/"
  "/home/cazevedo/.emacs.d/customizations/"
  "/home/cazevedo/.emacs.d/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "teste.rkt"
  "navigation.el"
  "startup.el"
  "ui.el"
@@ -23,9 +26,11 @@
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/cazevedo/Desktop/" (23811 52111 987272 758000) "python.pdf" "Emacs/" "mouse.html" "photo.jpg" "guile-dbi-2.1.7.tar.gz" "Java/" "meu-programa.rkt" "request_cycle.jpg" "meu-programa.rkt~" "scribble.css" "the_brave_and_true.pdf" "#mouse.scrbl#" "guile-dbi-guile-dbi-2.1.7/" "scribble-common.js" "mouse.scrbl" "prova/" "django_documentation.pdf" "../" "Artigo/" "./" "arduino-arduinoide.desktop" "scribble-style.css")
+ ("/home/cazevedo/Desktop/Racket/" (23813 31038 459775 474000) "teste.rkt~" "teste.rkt" "../" "./")
 
- ("/home/cazevedo/" (23811 65507 520977 156000) ".spacemacs" "log.txt" "Clojure/" "Público/" ".pylint.d/" ".emma/" ".vim/" "Desktop/" ".gitconfig" "anaconda3/" "Skeel/" "Documentos/" ".oracle_jre_usage/" ".lein/" ".NERDTreeBookmarks" ".config/" ".conda/" "Imagens/" "#mredauto#1#" ".electrum/" ".git-commit-template-pt" "Programação/" "sub2/" ".npm/" ".viminfo" ".xsession-errors" ".swt/" "codenation/" ".ICEauthority" ".eclipse/" ".kde/" ".dbus/" ".xsession-errors.old" "Música/" ".profile" ".wget-hsts" ".bluej/" ".m2/" ".arduino15/" ".android/" ".lesshst" ".local/" ".keymap-selected" ".emacs.d/" ".java/" ".gtkrc-2.0" "Vídeos/" "Aulas/" ".pki/" ".IdeaIC2019.1/" ".geiser_history.guile" ".tooling/" ".dbeaver4/" ".recently-used" ".vimrc" ".last-updated" "snap/" ".gconf/" ".git-commit-template-en" ".gnome/" ".Xauthority" ".racket/" ".bash_history" ".ssh/" ".psql_history" ".webclipse/" "Downloads/" ".cache/" ".mozilla/" ".gksu.lock" "Arduino/" ".dmrc" "../" ".gvfs/" "./" ".python_history" ".themes/" ".bashrc" ".icons/" "eclipse-workspace/" ".bluej.Boot$App/" ".xboardrc" ".gnupg/" "IdeaProjects/" "Templates/")
+ ("/home/cazevedo/Desktop/" (23813 30502 502587 538000) "Emacs/" "request_cycle.jpg" "meu-programa.rkt~" "Racket/" "prova/" "django_documentation.pdf" "../" "Artigo/" "./")
+
+ ("/home/cazevedo/" (23813 25928 986211 313000) ".spacemacs" "log.txt" "Clojure/" "Público/" ".pylint.d/" ".pacmacs-score" ".emma/" ".vim/" "Desktop/" ".gitconfig" "anaconda3/" "Skeel/" "Documentos/" ".oracle_jre_usage/" ".lein/" ".NERDTreeBookmarks" ".config/" ".conda/" "Imagens/" ".electrum/" ".git-commit-template-pt" "Programação/" "sub2/" ".npm/" ".viminfo" ".xsession-errors" ".swt/" "codenation/" ".ICEauthority" ".eclipse/" ".kde/" ".dbus/" ".xsession-errors.old" "Música/" ".profile" ".wget-hsts" ".bluej/" ".m2/" ".arduino15/" ".android/" ".lesshst" ".local/" ".keymap-selected" ".emacs.d/" ".java/" ".gtkrc-2.0" "Vídeos/" ".pacmacs-score~" "Aulas/" ".pki/" ".IdeaIC2019.1/" ".geiser_history.guile" ".tooling/" ".dbeaver4/" ".recently-used" ".vimrc" ".last-updated" "snap/" ".gconf/" ".git-commit-template-en" ".gnome/" ".Xauthority" ".racket/" ".bash_history" ".ssh/" ".psql_history" ".webclipse/" "Downloads/" ".cache/" ".mozilla/" ".gksu.lock" "Arduino/" ".dmrc" "../" ".gvfs/" "./" ".python_history" ".themes/" ".bashrc" ".icons/" "eclipse-workspace/" ".bluej.Boot$App/" ".xboardrc" ".gnupg/" "IdeaProjects/" "Templates/")
 
  ("/home/cazevedo/.emacs.d/customizations/" (23811 492 352896 172000) "ui.el" "navigation.el" "navigation.el~" "../" "./")
 

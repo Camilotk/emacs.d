@@ -23,3 +23,25 @@ cd guile-dbi
 ls
 [sudo] senha para cazevedo: 07war0695
 exit
+raco
+raco pkg 
+raco pkg install web-server
+exit
+ls
+cd Desktop/
+ls
+cd Racket/
+ls
+mv aula2.rkt web-server-test.rkt
+clear
+ls
+clear
+ls
+rm teste.rkt\~
+ls
+rm aula2.rkt\~ 
+rm #aula2.rkt#
+ls
+clear
+ls
+cd ..
