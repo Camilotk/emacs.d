@@ -15,5 +15,5 @@ archive-contents
 *.elc
 ./games
 ./auto-save-list
+.eshell
 ./eshell
-./eshell/*
